@@ -1,4 +1,4 @@
-# Analysis-of-Descreptive-statistic
+# Analysis Of Descreptive Statistic
 Used Google Sheets to compare financial sectors using visualizations
 
 this project contain one file that summarize findings which also has a link to the sheets.
