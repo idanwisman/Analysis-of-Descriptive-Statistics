@@ -1,5 +1,5 @@
 # Analysis Of Descriptive Statistics
-Used Google Sheets to compare financial sectors using visualizations.
+Used Google Sheets to compare financial sectors with visualizations.
 
 This project contains one file that summarizes findings with a link to the sheets.
 
